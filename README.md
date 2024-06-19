@@ -1,6 +1,6 @@
 ### Hi there, I'm Joel Jackson 👋
 
-# Welcome to my GitHub profile! I'm a passionate and enthusiastic Software Developer, Junior Hacker, and Graphics Designer. I enjoy solving problems, creating innovative solutions, and designing engaging visuals. Here’s a bit more about me:
+Welcome to my GitHub profile! I'm a passionate and enthusiastic Software Developer, Junior Hacker, and Graphics Designer. I enjoy solving problems, creating innovative solutions, and designing engaging visuals. Here’s a bit more about me:
 🌟 About Me
 
     🔭 I’m currently working on various projects using React, Laravel, Python, and Flutter.
