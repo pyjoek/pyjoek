@@ -12,10 +12,10 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic Software Develop
 🛠️ Technologies & Tools
 Programming Languages
 
-    JavaScript (React, Node.js)
+    JavaScript (React, ReactNative)
     PHP (Laravel)
-    Python (Django, Flask)
     Dart (Flutter)
+    Python
 
 Tools & Frameworks
 
@@ -27,23 +27,5 @@ Tools & Frameworks
 Version Control & Collaboration
 
     Git & GitHub for version control and collaborative development.
-    Trello and JIRA for project management and task tracking.
-
-🔍 Find Me Online
-
-    GitHub
-    LinkedIn
-    Twitter
 
 📈 GitHub Stats
-
-🎨 Featured Projects
-Project 1
-
-A brief description of your project. Include the technologies used and the purpose of the project.
-Project 2
-
-A brief description of your project. Include the technologies used and the purpose of the project.
-Project 3
-
-A brief description of your project. Include the technologies used and the purpose of the project.
