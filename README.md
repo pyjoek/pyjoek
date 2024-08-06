@@ -27,7 +27,3 @@ Tools & Frameworks
 Version Control & Collaboration
 
     Git & GitHub for version control and collaborative development.
-
-Joel
-
-    joel is me actually
