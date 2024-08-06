@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic Software Develop
     🌱 I’m constantly learning and exploring new technologies and methodologies to improve my skills.
     🎨 As a graphics designer, I love crafting beautiful and intuitive user interfaces and experiences.
     💡 I have a keen interest in ethical hacking and cybersecurity, always striving to enhance my knowledge and expertise.
-    📫 How to reach me: your.email@example.com | LinkedIn
+    📫 How to reach me: WhatsApp & Telegram ~ +255757097875
 
 🛠️ Technologies & Tools
 Programming Languages
