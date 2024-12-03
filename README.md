@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on various projects using React, Laravel, Python, and Flutter.<br>🌱 I’m constantly learning and exploring new technologies and methodologies to improve my skills.<br>🎨 As a graphics designer, I love crafting beautiful and intuitive user interfaces and experiences.<br>💡 I have a keen interest in ethical hacking and cybersecurity, always striving to enhance my knowledge and expertise.<br>📫 How to reach me: WhatsApp & Telegram ~ +255757097875
+🔭 I’m currently working on various projects using React, Laravel, Python, and Flutter.<br>🌱 I’m constantly learning and exploring new technologies and methodologies to improve my skills.<br>🎨 As a graphics designer, I love crafting beautiful and intuitive user interfaces and experiences.<br>💡 I have a keen interest in ethical hacking and cybersecurity, always striving to enhance my knowledge and expertise.<br>📫 How to reach me: WhatsApp & Telegram ~ +255773013475
 
 
 # 💻 Tech Stack:
