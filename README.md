@@ -31,9 +31,7 @@
 
 **Tools & DevOps**  
 ![Docker](https://img.shields.io/badge/Docker-0ABAB5?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-00FFAB?style=for-the-badge&logo=mongodb&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-FF007F?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6D28?style=for-the-badge&logo=postman&logoColor=white)
 
 **Design & Creative**  
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
@@ -42,7 +40,15 @@
 
 ---
 
-## 📊 GitHub Stats (Neon Style)
+## 📊 GitHub Stats:
+
+## 🚀 GitHub Stats:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyjoek&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## 📊 GitHub Streak:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pyjoek&theme=radical)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pyjoek&theme=neon-pink&hide_border=true" />
