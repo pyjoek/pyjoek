@@ -1,82 +1,70 @@
-<!-- Neon Themed GitHub README -->
-
-# 💫 About Me
-
-🌐 **Currently working on**: React, Laravel, Python, Flutter, and more!  
-💡 **Always learning**: Continuously exploring new technologies, frameworks, and methodologies.  
-🎨 **Graphic Design Enthusiast**: Crafting beautiful, intuitive user interfaces and experiences.  
-🔐 **Passionate about Ethical Hacking & Cybersecurity**: Constantly enhancing my knowledge.  
-📞 **Reach me via WhatsApp/Telegram**: +255773013475
+<!-- 🌟 Neon-Themed GitHub README (Simulated Glow) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F700FF&height=120&section=footer"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&multiline=true&width=600&lines=Hey!+I'm+pyjoek;React+%7C+Laravel+%7C+Python+%7C+Flutter;Ethical+Hacker+%7C+Designer+%7C+Developer" alt="Typing SVG" />
+</p>
 
 ---
 
-# 💻 Tech Stack
+## 🌐 About Me
 
-### 🚀 Languages & Frameworks:
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### 🛠️ Databases & Dev Tools:
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🎨 Design Tools:
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+💻 Currently working on: React, Laravel, Python, Flutter  
+🌱 Always learning and exploring new tech  
+🎨 Graphic designer with a passion for clean UI/UX  
+🔐 Ethical hacking & cybersecurity enthusiast  
+📬 Contact me via WhatsApp/Telegram: **+255773013475**
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 Tech Stack
 
-<!-- GitHub Stats with Neon Theme -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pyjoek&theme=neon-pink&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyjoek&theme=neon-pink&hide_border=true&layout=compact)
+**Languages & Frameworks**  
+![React](https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D95?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-01C5C4?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-00B4D8?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-F9A826?style=for-the-badge&logo=python&logoColor=white)
 
----
+**Tools & DevOps**  
+![Docker](https://img.shields.io/badge/Docker-0ABAB5?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-00FFAB?style=for-the-badge&logo=mongodb&logoColor=black)
+![Git](https://img.shields.io/badge/Git-FF007F?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6D28?style=for-the-badge&logo=postman&logoColor=white)
 
-# ⚡ Fun Facts
-
-- I love exploring **ethical hacking** and the **cybersecurity** field.
-- I’m always working on **personal projects** and contributing to open-source.
-
----
-
-# 🎮 Projects & Contributions
-
-Check out some of my work and contributions:
-- 🔗 [My GitHub Repositories](https://github.com/pyjoek)
-- 🌐 [My Personal Portfolio](https://your-portfolio-link.com)
-
----
-
-# 🌐 Connect With Me
-
-Feel free to reach out on these platforms:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📸 [Instagram](https://instagram.com/yourhandle)
+**Design & Creative**  
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-0078D4?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-FF6EC7?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
-# 🧠 Additional Badges
+## 📊 GitHub Stats (Neon Style)
 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=Matplotlib&logoColor=black)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pyjoek&theme=neon-pink&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyjoek&theme=neon-pink&layout=compact&hide_border=true" />
+</p>
 
 ---
 
-# 🎨 Inspired By
+## 🌈 Extras
 
-Proudly created with ❤️ and built with open-source contributions.  
-Let’s make the web a better place, together!
+- 🎯 I tinker with Raspberry Pi and Cisco networks
+- 📊 I analyze data with Pandas, NumPy, and Plotly
+- 💥 I design motion graphics in After Effects and Premiere Pro
 
-<!-- End of Neon Themed GitHub README -->
+---
+
+## 🔗 Let's Connect
+
+- 🌐 [GitHub](https://github.com/pyjoek)
+- 📱 WhatsApp/Telegram: +255773013475
+- 🌐 [Your Portfolio](https://your-portfolio-link.com)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F700FF&height=120&section=footer"/>
+</p>
