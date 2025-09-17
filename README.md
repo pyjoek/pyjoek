@@ -40,23 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-## 🚀 GitHub Stats:
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyjoek&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
-## 📊 GitHub Streak:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pyjoek&theme=radical)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pyjoek&theme=neon-pink&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyjoek&theme=neon-pink&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 🌈 Extras
 
 - 🎯 I tinker with Raspberry Pi and Cisco networks
