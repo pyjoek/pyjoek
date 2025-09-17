@@ -2,8 +2,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F700FF&height=120&section=footer"/>
 </p>
+<!-- 🌟 Neon-Themed GitHub README (Simulated Glow) -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&multiline=true&width=600&lines=Hey!+I'm+pyjoek;React+%7C+Laravel+%7C+Python+%7C+Flutter;Ethical+Hacker+%7C+Designer+%7C+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&multiline=true&width=600&lines=Hey!+I'm+pyjoek;React+%7C+Laravel+%7C+Python;Ethical+Hacker+%7C+Designer" alt="Typing SVG" />
 </p>
 
 ---
@@ -68,3 +70,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F700FF&height=120&section=footer"/>
 </p>
+
