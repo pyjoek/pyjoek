@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&multiline=true&width=600&lines=Hey!+I'm+pyjoek" alt="Typing SVG" />
 </p>
 
-
-
 ## 🌐 About Me
 
 💻 Currently working on: React, Laravel, Python, Flutter  
@@ -48,6 +46,14 @@
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pyjoek&theme=neon-palenight&hide_border=true&background=000000&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" alt="GitHub Streak"/>
+</p>
+
+---
+
 ## 🔗 Let's Connect
 
 - 🌐 [GitHub](https://github.com/pyjoek)
@@ -59,4 +65,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F700FF&height=120&section=footer"/>
 </p>
-
