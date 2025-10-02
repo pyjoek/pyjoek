@@ -52,15 +52,6 @@
   <img src="https://streak-stats.demolab.com?user=pyjoek&theme=neon-palenight&hide_border=true&background=000000&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" alt="GitHub Streak"/>
 </p>
 
----
-
-## 🔗 Let's Connect
-
-- 🌐 [GitHub](https://github.com/pyjoek)
-- 📱 WhatsApp/Telegram: +255773013475
-- 🌐 [Your Portfolio](https://your-portfolio-link.com)
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F700FF&height=120&section=footer"/>
