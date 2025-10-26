@@ -14,7 +14,7 @@
 🌱 Always learning and exploring new tech  
 🎨 Graphic designer with a passion for clean UI/UX  
 🔐 Ethical hacking & cybersecurity enthusiast  
-📬 Contact me via WhatsApp/Telegram: **+255773013475**
+📬 Contact me via WhatsApp: **+255773013475**
 
 ---
 
