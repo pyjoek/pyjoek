@@ -50,6 +50,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pyjoek&theme=neon-palenight&hide_border=true&background=000000&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" alt="GitHub Streak"/>
+  ![Streak stats](https://streak-stats.demolab.com?user=pyjoek&theme=neon-palenight&hide_border=true&background=000000&ring=F700FF&fire=F700FF&currStreakLabel=F700FF)
 </p>
 
 
