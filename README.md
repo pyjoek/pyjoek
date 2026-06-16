@@ -10,7 +10,7 @@
 
 ## 🌐 About Me
 
-💻 Currently working on: Data Analysis and Developing Softwares 
+💻 Currently working on: Data Analysis and Developing Softwares  
 🌱 Always learning and exploring new tech  
 🎨 Graphic designer with a passion for clean UI/UX  
 🔐 Ethical hacking & cybersecurity enthusiast  
