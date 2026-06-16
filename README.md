@@ -10,10 +10,11 @@
 
 ## 🌐 About Me
 
-💻 Currently working on: React, Laravel, Python, Flutter  
+💻 Currently working on: Data Analysis and Developing Softwares 
 🌱 Always learning and exploring new tech  
 🎨 Graphic designer with a passion for clean UI/UX  
 🔐 Ethical hacking & cybersecurity enthusiast  
+📊 Data Scientist 
 📬 Contact me via WhatsApp: **+255773013475**
 
 ---
