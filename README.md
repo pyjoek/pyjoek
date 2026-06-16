@@ -14,7 +14,7 @@
 🌱 Always learning and exploring new tech  
 🎨 Graphic designer with a passion for clean UI/UX  
 🔐 Ethical hacking & cybersecurity enthusiast  
-📊 Data Scientist 
+📊 Data Scientist  
 📬 Contact me via WhatsApp: **+255773013475**
 
 ---
